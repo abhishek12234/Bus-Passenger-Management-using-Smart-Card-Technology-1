@@ -41,3 +41,9 @@ This module will need a camera and a small display as requirements to scan and d
 7. cv2: Used in Scanner for capturing QR codes, Install using : " pip install opencv-python "
 
 8. playsound: Used in Scanner for playing audio files, Install using : " pip install playsound "
+
+## Made By
+
+Ayush Kumawat-https://www.linkedin.com/in/ayush-kumawat
+Garima Patel-https://www.linkedin.com/in/garima-patel-58b656241
+Abhishek Jain-https://www.linkedin.com/in/abhishek-jain-59a760210
