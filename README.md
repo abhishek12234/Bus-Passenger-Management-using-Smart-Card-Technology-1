@@ -44,6 +44,6 @@ This module will need a camera and a small display as requirements to scan and d
 
 ## Made By
 
-Ayush Kumawat-https://www.linkedin.com/in/ayush-kumawat
-Garima Patel-https://www.linkedin.com/in/garima-patel-58b656241
-Abhishek Jain-https://www.linkedin.com/in/abhishek-jain-59a760210
+- Ayush Kumawat-https://www.linkedin.com/in/ayush-kumawat
+- Garima Patel-https://www.linkedin.com/in/garima-patel-58b656241
+- Abhishek Jain-https://www.linkedin.com/in/abhishek-jain-59a760210
